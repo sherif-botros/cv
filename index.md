@@ -1,4 +1,10 @@
 ---
+layout: default
+---
+
+<link rel="stylesheet" href="/assets/css/custom.css">
+
+---
 title: "Sherif F. Botros — Tech Lead, Full‑Stack & Azure Integration"
 subtitle: "20+ years delivering .NET, Azure, and Integration solutions"
 tags: ["CV", "Resume", "Azure", "DotNet", "Integration", "Full-Stack"]
