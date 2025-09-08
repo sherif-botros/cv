@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Sherif F. Botros — Tech Lead, Full-Stack & Azure Integration"
 ---
 
 <link rel="stylesheet" href="/assets/css/custom.css">
@@ -148,3 +149,8 @@ Optus Sales Representative — 16 months
 
 ## Interests
 DIY home improvements, chess, bridge, and philosophy of religion.
+
+---
+
+## References
+Provided on request.
