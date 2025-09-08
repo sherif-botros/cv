@@ -1,6 +1,5 @@
 ---
 layout: default
-title: "Sherif F. Botros — Tech Lead, Full-Stack & Azure Integration"
 ---
 
 <link rel="stylesheet" href="/assets/css/custom.css">
