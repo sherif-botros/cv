@@ -1,8 +1,8 @@
 # Sherif F. Botros
 
 **Lead Azure Integration Engineer | Full Stack .NET | Cloud Architecture**
-Melbourne, Australia
-E: <botros@live.com.au> | M: +61 447 80 80 86
+
+Melbourne, Australia E: <botros@live.com.au> | M: +61 447 80 80 86
 
 ## Professional Summary
 
